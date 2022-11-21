@@ -17,4 +17,4 @@ Hi, I'm @tuantran221. You might recognize me as GitHub's mascot.
 |     5| Java      |
 
 
-![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuantran221&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuantran221&layout=compact)](https://github.com/tuantran221/github-readme-stats)
