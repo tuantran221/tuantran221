@@ -16,5 +16,6 @@ Hi, I'm @tuantran221. You might recognize me as GitHub's mascot.
 |     4| SQL       |
 |     5| Java      |
 
+## Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuantran221&layout=compact)](https://github.com/tuantran221/github-readme-stats)
