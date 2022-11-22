@@ -13,8 +13,7 @@ Hi, I'm @tuantran221. You might recognize me as GitHub's mascot.
 |     1| Javascript|
 |     2| Html,Css  |  
 |     3| Python    |
-|     4| SQL       |
-|     5| Java      |
+
 
 ## Skills
 
