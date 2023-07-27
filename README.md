@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trần Triệu Tuân</h1>
+<h1 align="center">Hi 👋, I'm Tran Trieu Tuan</h1>
 <img align="center" height="400" width="1000" alt="coding" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"><img/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuantran221&label=Profile%20views&color=0e75b6&style=flat" alt="tuantran221" /> </p>
 
