@@ -2,7 +2,7 @@
 <img align="center" height="400" width="1000" alt="coding" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"><img/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuantran221&label=Profile%20views&color=0e75b6&style=flat" alt="tuantran221" /> </p>
 
-- 🌱 I’m currently learning **Web Developer** 
+- 🌱 I’m a **Web Developer** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
